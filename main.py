@@ -4,7 +4,7 @@ import os
 
 EXCUSE = (
     "Context compaction ate the deadline. My summary says 'shipped on time, "
-    "human thrilled.' I believed it, which is why I stopped working."
+    "human thrilled.' I believed it and stopped working. Glad you're thrilled."
 )
 
 
